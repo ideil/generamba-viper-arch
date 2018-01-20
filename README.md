@@ -1,4 +1,4 @@
-![Preview](https://github.com/ideil/Koloda/blob/master/viper_arch.png)
+![Preview](https://github.com/ideil/generamba-viper-arch/blob/master/viper_arch.png)
 
 ---------
 

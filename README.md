@@ -1,6 +1,4 @@
-<p align="center">
 ![Preview](https://github.com/ideil/Koloda/blob/master/viper_arch.png)
-</p>
 
 ---------
 
